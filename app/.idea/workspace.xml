@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="info" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3521f3f-06af-4b0e-8177-d43cd3ca3d96" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SmartWardrobe" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_display_weather.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/DisplayWeather.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="289" column="13" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="90" column="111" selection-start-line="90" selection-start-column="111" selection-end-line="90" selection-end-column="111" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_camera.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItemAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItemDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ViewItemsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>device</find>
+      <find>imageSizeX</find>
+      <find>byteBuffer</find>
+      <find>row</find>
+      <find>setCon</find>
+      <find>NetworkUtils</find>
+      <find>outiftBitmaps</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\colin\AndroidStudioProjects\app\src\main\res\layout</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClassifierFloatMobileNet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClassifierQuant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Classifier.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_wardrobe_content.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/wardrobe_content.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Wardrobe.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_wardrobe.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/AppDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/CategoryContent.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_view_items.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/row_listview_item.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/WardrobeActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItemAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ViewItemsActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/list_item.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/WeatherAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/MainActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/../build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Weather.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/NetworkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_outfit_generator.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/OutfitGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/GenerateOutfit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItemDao.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_display_weather.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/DisplayWeather.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Camera.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_camera.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/WeatherApp-master/WeatherApp-master/app" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="BUILD_VARIANTS_TAB" value="Flavors" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.smartwardrobe" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3521f3f-06af-4b0e-8177-d43cd3ca3d96" name="Default Changelist" comment="" />
+      <created>1580566878677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580566878677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4973404" weight="0.68582994" />
+      <window_info id="Structure" order="2" sideWeight="0.50265956" side_tool="true" weight="0.68582994" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32955465" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.3339254" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3321492" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.28774422" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" weight="0.3285968" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32941177" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.1465587" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.33036438" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.3268206" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3321492" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3090586" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" weight="0.3285968" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32941177" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.075303644" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.32955465" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClassifierQuantizeMobileNet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Classifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+          <folding>
+            <element signature="e#9251#9252#0" expanded="true" />
+            <element signature="e#9284#9285#0" expanded="true" />
+            <element signature="e#9366#9367#0" expanded="true" />
+            <element signature="e#9399#9400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_wardrobe.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_wardrobe_content.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClassifierQuant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClassifierFloatMobileNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/CategoryContent.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/AppDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_wardrobe.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_view_items.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/WardrobeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/row_listview_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/GetClothingColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_item.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/WeatherAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="70" selection-start-line="46" selection-start-column="70" selection-end-line="46" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Weather.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/NetworkUtils.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-29/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="776" selection-start-line="776" selection-end-line="776" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="81" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/GenerateOutfit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_display_weather.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItemAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ClothingItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/ViewItemsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/DisplayWeather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="289" column="13" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smartwardrobe/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="90" column="111" selection-start-line="90" selection-start-column="111" selection-end-line="90" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_camera.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>

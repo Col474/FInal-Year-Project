@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="400dp"
+        android:layout_height="182dp"
+        android:layout_marginBottom="603dp"
+        android:gravity="center"
+        android:text="Smart Wardrobe"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/addClothes"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="360dp"
+        android:onClick="startCamera"
+        android:text="Add new Clothing"
+        app:layout_constraintBottom_toTopOf="@+id/savedOutfits"
+        app:layout_constraintEnd_toStartOf="@+id/viewWardrobe"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/viewWardrobe"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="360dp"
+        android:text="View Wardbrobe"
+        android:onClick="viewWardrobe"
+        app:layout_constraintBottom_toTopOf="@+id/generateOutfit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/addClothes"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/savedOutfits"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="47dp"
+        android:text="Saved Outfits"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/generateOutfit"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/addClothes" />
+
+    <Button
+        android:id="@+id/generateOutfit"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="47dp"
+        android:text="Outfit Generator"
+        android:onClick="startOutfitGenerator"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/savedOutfits"
+        app:layout_constraintTop_toBottomOf="@+id/viewWardrobe" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Camera">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="410dp"
+        android:layout_height="389dp"
+        android:layout_marginTop="400dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/imageClothingDetails"
+        android:layout_width="408dp"
+        android:layout_height="27dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <RadioGroup
+        android:id="@+id/predictions"
+        android:layout_width="0dp"
+        android:layout_height="123dp"
+        app:layout_constraintBottom_toTopOf="@+id/addNewItem"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.487">
+
+        <RadioButton
+            android:id="@+id/firstPrediction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/secondPrediction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/thirdPrediction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/addNewItem"
+        android:layout_width="202dp"
+        android:layout_height="72dp"
+        android:onClick="onAddItem"
+        android:text="Add Another Item"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/imageClothingDetails"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.409" />
+
+    <Button
+        android:id="@+id/addWardrobe"
+        android:layout_width="202dp"
+        android:layout_height="72dp"
+        android:onClick="onSaveItem"
+        android:text="Add Item to Wardrobe"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.406" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="32dp"
+        android:text="Chose Clothing Category:"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.061" />
+
+    <EditText
+        android:id="@+id/addLabel"
+        android:layout_width="410dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="196dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.07"
+        tools:text="Add Label" />
+
+    <TextView
+        android:layout_width="413dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="4dp"
+        android:text="Give Item Label:"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.272" /><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+        app:layout_constraintBottom_toBottomOf=
+        app:layout_constraintEnd_toEndOf=
+        app:layout_constraintHorizontal_bias=0.416"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+
+
+
+
+]]>
+</androidx.constraintlayout.widget.ConstraintLayout>
